@@ -40,5 +40,5 @@ Users should be able to:
 
 ### What I learned
 
-I got more comfortable with using media queries
-I got more comfortable with following designs given from figma
+- I got more comfortable with using media queries
+- I got more comfortable with following designs given from figma
